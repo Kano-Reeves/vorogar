@@ -5,6 +5,8 @@ If a [blessed spirit](Spirit) happens to collect soul like a damned one would, t
 Devils are the original carriers of the [tiefling](Tiefling) gene, offspring of a [mortal](List%20of%20Mortal%20Races) and a devil will not be a tiefling themselves but rather the race of the mortal parent, and all children will be carriers of the gene.
 # In culture
 Devils are justifiably considered the root of all evil by most mortals, it is taboo to summon and/or make a deal with one.
+# Spread
+Devils are almost exclusively found in the infernal plane.
 # Notable devils
 - [[Emperor Jason Seraph]], post mortem
 - [[Ser Ghastly of Grenalt]], post mortem

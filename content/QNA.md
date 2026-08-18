@@ -1,4 +1,5 @@
-#special
+**Got any questions? Feel free to ask them [here](https://forms.gle/MVVLWX8uB3B7EAyt5)**
+
 ***What is a dark secret you world holds from its people? A fundamental shift in understanding that would fracture the world***
 That [demons](Demon) are the product of [fallen angels](Angel) and  [humans](Human), a lot, and I say A LOT of the racial bias and laws targeting them come from the wrong assumption that they descend from [devils](Devil), who they share many traits with (purely coincidentally)
 Knowing this would shift a lot of the opinion towards them, especially coming from humans, for sure many more humans would be much more uncomfortable discriminating a race that is the closest thing to them.
