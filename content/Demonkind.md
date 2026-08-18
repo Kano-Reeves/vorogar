@@ -6,7 +6,7 @@ True demons are defined as the product of a [fallen angel](Angel.md) and a [mort
 | --------- | -------------------- |
 | [[Demon]] | [[Human]]            |
 |           | [[Aaracokra]]        |
-|           | [[Mermaid]]          |
+|           | [[Merfolk]]          |
 |           | [[Goblin]]           |
 |           | [[Soze]]             |
 # List of improper demons 
