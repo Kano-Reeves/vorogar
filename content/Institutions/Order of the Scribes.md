@@ -1,4 +1,4 @@
-The Order of the Scribes, at times also called Chronos' scribes, is a secret order instituted by [[Chronos]] to record all the history throughtout all planets and [planes of existance](Plane%20of%20Existance).
+The Order of the Scribes, at times also called Chronos' scribes, is a secret order instituted by [[Chronos]] to record all the history throughtout all planets and [planes of existance](Plane%20of%20Existance.md).
 # Origin
 Any instance of the Order is instituted as soon as written history starts, Chronos will give the duty to record to a person or a small group of people, the order will then naturally expand as the population of the planet rises.
 
