@@ -231,7 +231,6 @@ plugins:
     options:
       links:
         License: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-        Support Vorogar: "https://ko-fi.com/kanoreeves"
     layout:
       position: footer
       priority: 50
