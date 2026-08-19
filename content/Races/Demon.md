@@ -2,12 +2,15 @@
 Demons form the majority of the population of [demonkind](Demonkind.md), and are usually what people refer to when talking about demons, they are distinguished by the presence of wings, and an ability to fly, despite having a body quite dense for flight like other winged races.
 # Physiology 
 Demons are almost identical to [humans](Human.md) in their biology, including in the lifespan, exception made for certain traits, which are divided in two groups: **major** traits and **minor** traits, the colour of some of the traits is usually the same for all the traits, and are passed down genetically.
+
+![[Pasted image 20260819153352.png]]
+*Anatomical chart showcasing some of  the anatomy of a demon*
 ## Major traits
 - **Horns:** hard keratin growths from the head, most commonly from the forehead, that vary in shape and colour, at times mimicking the shape of animal horns, they do not regrow, and have little blood vessels in them, but do contain nerve endings.
 - **Wings:** limbs that sprout from between the shoulder blades of the demon, and span typically 2.80m each side on the average demon, as they're usually proportionate to the height, they are similar in structure to the wings of a bat, due to them, demons can fly, albeit with limitations
 - **Tail:** a thin, spade-tipped tail protruding from the sacrum, on males, the tip is accompanied by two smaller "spikes", while female demons lack the trait
 ## Minor traits
-- **Claws:** at the tip of a demon's finger grows a spike of hard keratin, sharp like claws observed in animals, the claws tend to be the same colour as the horns, as they're made from the same material
+- **Claws:** on the last phalanx of a demon's finger grows a spike of hard keratin scales, sharp like claws observed in animals, the claws tend to be the same colour as the horns, as they're made from the same material
 - **Pointed ears:** demons have short, but pointed ears, they lack the muscle to move them properly like other pointy-eared races
 - **Fangs:** notably sharp teeth, the usage or origin is unknown, as demons aren't exclusively carnivorous 
 - **Vertical pupils:** not unlike cats, they grant excellent vision in dark conditions

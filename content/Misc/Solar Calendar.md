@@ -3,6 +3,9 @@ The solar calendar is one of the three common calendar systems in use, it was or
 The solar calendar is divided in 4 months: Spring, Summer, Autumn and Winter, of 80 days each for a total of 320 days.
 
 The months are also commonly further divided in 4 sections of 20 days, to keep better track of the month passing, this division is by no means official and doesn't appear officially in any calendar.
+
+![[Pasted image 20260819152713.png]]
+*The solar calendar, featuring the unofficial divisions*
 # Descents
 Another division of the calendar is called a Descent, since the calendar's years fully reset on the occasion that Atoq is [summoned](Summoning.md), because of it, the seasons in the calendar may result skewed compared to real seasons.
 # Usage

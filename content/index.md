@@ -9,3 +9,5 @@ Vorogar is a wordlbuilding project created by [Kano Reeves](https://linktr.ee/Ka
 In-universe [[Vorogar]] is the planet on which we focused the most, whose names comes from either the [Draconic](Draconic%20Language.md) or [Giant](Giant%20Language.md) language, depending on who you ask, the project itself includes way more than just one planet, have fun exploring the wiki!
 
 Don't know where to start? Check out the [[QNA]]!
+# Credits
+All images are created by Kano Reeves, unless specified in the caption under the image, all images are used with the permission of the original creator, or are free to use.
