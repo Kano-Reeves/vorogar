@@ -3,6 +3,8 @@ A devil is a [four dimensional creature](Four%20Dimensional%20Creature.md) origi
 If a [blessed spirit](Spirit.md) happens to collect soul like a damned one would, they'd eventually turn into a devil themselves, no different in features than an infernal devil, this has never happened before, as most blessed souls have no wish for power.
 # Mixing with mortals
 Devils are the original carriers of the [tiefling](Tiefling.md) gene, offspring of a [mortal](List%20of%20Mortal%20Races.md) and a devil will not be a tiefling themselves but rather the race of the mortal parent, and all children will be carriers of the gene.
+
+It's of note that offspring of a devil and a mortal is not a [[Demigod]] as one might think.
 # In culture
 Devils are justifiably considered the root of all evil by most mortals, it is taboo to summon and/or make a deal with one.
 # Spread
