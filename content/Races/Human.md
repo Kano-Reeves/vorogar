@@ -6,6 +6,8 @@ The only actual trait that distinguishes human development from development of o
 As any other [humanoid race](List%20of%20Humanoid%20Races.md), humans can breed with any other humanoid race, all that seems to do to the offspring is dilute the racial traits of the other parent.
 ## Tiefling humans
 [[Tiefling]] humans have tinted skin the color of the tiefling origin, a thick tail and horns, that vary in shape and size.
+# Spread
+Humans are mostly found in the north eastern part of the [[Central Continent]]
 # Notable humans and half-humans
 - [[Hecate]], current god of [magic](Magic.md), [archwizard](Wizard.md), first mortal to kill a god, only mortal to ascend to godhood
 - [[Wiki]], archwizard that sought to collect all the magic in the world, author of the biggest collection of spells ever
