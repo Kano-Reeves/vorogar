@@ -9,5 +9,11 @@ The official languages are [goblinish](Goblinish%20Language.md) and [orcish](Orc
 The Green Kingdom's central government is formed by a parliament, which is a council of different races, the percentage of seats assigned to each race is proportional to the percentage of that race in the population, the majority of the seats belong to orcs and goblins.
 
 Each race represented in the parliament also has a spokesperson called a representative, without having one central monarch or president, instead, when the need of representing the country comes, the representatives discuss among themselves to send the most fit for the job.
+# Patrons
+The Green Kingdom has four patron [gods](God)
+- [[Thycheros]]
+- [[unnamed_forgegod]]
+- [[unnamed_richgod]]
+- [[unnamed_earthgod]]
 # Culture
 Being one of the most diverse of countries, the Green Kingdom has a mix of goblinish and orcish traditions
